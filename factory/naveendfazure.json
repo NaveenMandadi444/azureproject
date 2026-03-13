@@ -1,0 +1,9 @@
+{
+	"name": "naveendfazure",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "367323b5-f471-47f9-b03c-78cb85246c83",
+		"tenantId": "9e58e4c3-88e0-45bd-a30f-020b210d5666"
+	}
+}
