@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "naveendfazure"
+		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
+		"Datalake_accountKey": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "azureservernaveen.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "azurenaveendb"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "adminnaveen"
+		},
+		"Datalake_properties_typeProperties_url": {
+			"value": "https://storageprojectazure.dfs.core.windows.net/"
+		}
+	}
+}
